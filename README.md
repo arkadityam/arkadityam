@@ -1,7 +1,3 @@
-Welcome to my digital workshop! 🚀 I'm an Electronics and Computer Science student passionate about turning complex hardware into highly optimized, real-time realities. From developing high-throughput serial loggers and custom GUI visualization engines for DRDO defense applications to configuring heterogeneous ARM Cortex platforms, I love diving deep into firmware, RTOS, and low-level software architectures.
-🎓 Currently engineering my way toward a Master's degree in Computer Science!
-
-TL;DR: 🚀 Here is a polished, professional, and visually appealing GitHub README profile introduction tailored exactly to your impressive embedded systems and research background! 🛠️
 👋 Hey there, I'm Ark Aditya Mani!
 ✨ Embedded Systems Engineer | Aspiring Computer Science Master's Student ✨
 Welcome to my GitHub space! 🛸 I am an Electronics and Computer Science undergraduate specializing in Embedded Systems, Real-Time Architectures (RTOS), and Low-Level Software Development. With hands-on research and development experience at DRDO (RCI & DEAL), I love bridging the gap between hardware constraints and high-performance software.

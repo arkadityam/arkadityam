@@ -4,8 +4,6 @@
 
 Welcome to my GitHub space! 🛸 I am an Electronics and Computer Science undergraduate specializing in **Embedded Systems**. With hands-on research and development experience at **DRDO (RCI & DEAL)**, I love bridging the gap between hardware constraints and high-performance software.
 
-⚡ Currently preparing to transition into a Master's program in Computer Science to deepen my expertise in advanced computing systems!
-
 ---
 
 ### 🛠️ What I Do
